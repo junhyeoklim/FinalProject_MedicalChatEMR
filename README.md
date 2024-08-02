@@ -77,8 +77,7 @@ Spring MVC구조 사용, MyBatis 사용하여 데이터베이스 연동
 
 
 
-
-        
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>    
 //알림 서비스
 //: 
 //Spring AOP를 통해 기능 분리, 유지보수성, 확정성을 위해 Spring Annotation을 활용
